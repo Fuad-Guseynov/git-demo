@@ -1,5 +1,9 @@
 Some new text
-To test
+Its a new gui text
+
 i am sorry but i did a mistake previous time
 lets add 2 more lines into 
 our repository
+
+lets work with git gui
+and see changes
