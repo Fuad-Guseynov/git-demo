@@ -9,3 +9,4 @@ lets work with git gui
 and see changes
 
 today is 31.03
+practice and reppeat git gui
