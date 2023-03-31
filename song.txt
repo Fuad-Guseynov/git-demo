@@ -7,3 +7,5 @@ our repository
 
 lets work with git gui
 and see changes
+
+today is 31.03
